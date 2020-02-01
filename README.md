@@ -3,7 +3,6 @@
 ## Quickstart
 https://colab.research.google.com/drive/1JKqaOCajPgmLiPmP-JzJSS8VBnCSwNF6#offline=true&sandboxMode=true
 
-
 ## Context
 Predicting the stock market is a game as old as the stock market itself.  On popular ML platforms like Kaggle, users often compete to come up with highly nuanced, optimized models to solve the stock market starting just from price data.  LSTMs may be the solution, but the real problem isn't the models - it's the data.  
 
@@ -33,4 +32,4 @@ https://drive.google.com/file/d/1HVKWtLWlIZj5yY4T3R1CDSn3c_Nh1lB5/view?usp=shari
 
 ## Collaboration
 If this interests you, reach out!  My email is abwilf [at] umich [dot] edu.  The repository I used to generate the dataset is here:
-
+https://github.com/abwilf/daytrader
